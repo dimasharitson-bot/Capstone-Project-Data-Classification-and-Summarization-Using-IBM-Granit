@@ -3,7 +3,7 @@
 Title: Mid-Range Smartphone Sentiment Analysis using IBM Granite
 
 Project Overview
-This project analyzes public sentiment towards three mid-range smartphones — Samsung Galaxy A56, Xiaomi 14T, and Vivo V40 5G — using AI-powered natural language processing. YouTube comments from technology reviews were collected, cleaned, and processed with the IBM Granite 3.3-8B-Instruct model to extract sentiment (positive, negative, neutral) and feature-specific insights (e.g., design, battery, camera). The goal is to provide actionable recommendations for product development and marketing strategies.
+This project analyzes public sentiment towards three mid-range smartphones Samsung Galaxy A56, Xiaomi 14T, and Vivo V40 5G  using AI-powered natural language processing. YouTube comments from technology reviews were collected, cleaned, and processed with the IBM Granite 3.3-8B-Instruct model to extract sentiment (positive, negative, neutral) and feature-specific insights (e.g., design, battery, camera). The goal is to provide actionable recommendations for product development and marketing strategies.
 
 Raw Dataset Link
 The dataset consists of over 450 user comments scraped from YouTube (David GadgetIn channel).
